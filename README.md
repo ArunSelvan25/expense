@@ -168,7 +168,6 @@ Enjoy tracking your expenses!
 Here are some screenshots of the Expense Tracker application:
 
 1. ![Expense Dashboard](images/expense-dashboard.png)
+2. ![Expense List](images/expense-list.png)
 
 ---
-
-This version includes both the frontend and backend setup instructions, as well as a placeholder for images at the end. Don't forget to add the relevant images (e.g., `home-page.png`, `expense-dashboard.png`, and `expense-export.png`) in the `images` folder within your project directory to make the screenshots appear in your README.
